@@ -65,9 +65,10 @@ class Login01Page extends StatelessWidget {
                       child: Text(
                         "Let's log you in",
                         style: GoogleFonts.lato(
-                            color: Colors.white,
-                            fontSize: 20.0,
-                            fontWeight: FontWeight.w600),
+                          color: Colors.white,
+                          fontSize: 20.0,
+                          fontWeight: FontWeight.w600,
+                        ),
                       ),
                     ),
                     Container(
